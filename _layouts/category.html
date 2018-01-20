@@ -3,10 +3,17 @@ layout: default
 ---
 
 <div id="home">
-  <h1>分类: {{ page.categories[0] | first }} 数目: {{ page.categories[0] | last | size }} </h1>
+
+  {% for category in page.categories %}
+    <h1>文章分类: {{ category | first}} 文章数量: {{ category | last | size}}</h1>
+    {% for post in category.last %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  {% endfor %}
+<!--   <h1>分类: {{ page.categories[0] | first }} 数目: {{ page.categories[0] | last | size }} </h1>
   <ul class="posts">
     {% for post in page.categories[0].last %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-  </ul>
+  </ul> -->
 </div>
