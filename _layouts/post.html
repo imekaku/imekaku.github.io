@@ -2,7 +2,16 @@
 layout: default
 ---
 <div id="post">
+
+{{ page.title }}
+================
+
+<p class="meta">
+  {{ page.date | date_to_string}} - <a href="http://blog.imekaku.com/category/{{ page.category }}.html">{{ page.category }}</a>
+</p>
+
 {{ content }}
+
 </div>
 
 <div id="related">
