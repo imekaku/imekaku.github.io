@@ -4,11 +4,11 @@ layout: default
 
 <div id="home">
 
-  {% for category in page.categories %}
-    <h1>文章分类: {{ category | first}} 文章数量: {{ category | last | size}}</h1>
-    {% for post in category.last %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+
+  <h1>分类: {{ page.category | first}}</h1>
+  <h1>分类: {{ page.categories | first}}</h1>
+  {% for post in site.categories[page.category] %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 <!--   <h1>分类: {{ page.categories[0] | first }} 数目: {{ page.categories[0] | last | size }} </h1>
   <ul class="posts">
