@@ -6,7 +6,7 @@ category: architecture
 
 ![消息中心架构图](https://raw.githubusercontent.com/imekaku/imekaku.github.io/master/pic/2018-01-31-message-center-architecture.png)
 
-> > 在开发消息中心时，需要将各个端产生的消息进行聚合，并调用其他的接口获取额外的信息之后，再在消息获取接口提供。  
+在开发消息中心时，需要将各个端产生的消息进行聚合，并调用其他的接口获取额外的信息之后，再在消息获取接口提供。  
 
 <br>
 
@@ -39,7 +39,7 @@ zset 是为了并发读取的时候 能够不会被多台机器读取。
 
 <br>
 
-# 消息存储
+# 消息存储Saver
 
 消息聚合处理之后会放入存储接口。通常情况下会把消息放入持久库和缓存库用于提供更快的消息查询时间。
 
