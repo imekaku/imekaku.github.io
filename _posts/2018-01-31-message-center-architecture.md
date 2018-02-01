@@ -6,11 +6,15 @@ category: architecture
 
 ![消息中心架构图](https://raw.githubusercontent.com/imekaku/imekaku.github.io/master/pic/2018-01-31-message-center-architecture.png)
 
-> 在开发消息中心时，需要将各个端产生的消息进行聚合，并调用其他的接口获取额外的信息之后，再在消息获取接口提供。  
+> > 在开发消息中心时，需要将各个端产生的消息进行聚合，并调用其他的接口获取额外的信息之后，再在消息获取接口提供。  
+
+<br>
 
 # 消息产生Producer
 
 这部分主要是放在各个端中，各个端写入消息到MQ中  
+
+<br>
 
 # 消息消费BaseConsumer
 
