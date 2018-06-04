@@ -1,1 +1,18 @@
-Hello, Thinking.
+---
+layout: default
+title: MY THINKING
+---
+
+<div id="home">
+  <h1>Thinking</h1>
+  
+  <ul class="thinking">
+      {% for item in site.thinking_collection %}
+      <li>
+          <span>{{ item.date | date_to_string }}</span>
+          <p>{{ item.content }}</p>
+      </li>
+      <br>
+      {% endfor %}
+  </ul>
+</div>
