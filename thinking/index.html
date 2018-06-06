@@ -7,7 +7,7 @@ title: Thinking
   <h1>Thinking</h1>
   
   <ul class="thinking">
-      {% for item in site.thinking_collection %}
+      {% for item in site.thinking_collection reversed %}
       <li>
           <span>{{ item.date | date_to_string }}</span>
           <p>{{ item.content }}</p>
