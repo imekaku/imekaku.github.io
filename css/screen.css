@@ -207,6 +207,27 @@ ul.thinking span {
   padding: 1em 0;
 }
 
+/*****************************************************************************/
+/*
+/* Thinking
+/*
+/*****************************************************************************/
+
+#thinking {
+
+}
+
+#thinking pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+#thinking img {
+  max-width: 42em;
+  padding: 1em 0;
+}
+
 /* terminal */
 
 #post pre.terminal {
