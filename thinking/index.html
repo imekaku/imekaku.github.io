@@ -10,7 +10,8 @@ title: Thinking
       {% for item in site.thinking_collection reversed %}
       <li>
           <span>{{ item.date | date_to_string }}</span>
-          <p>{{ item.content }}</p>
+          {{ item.content }}
+          <HR style="border:1 dashed #DDDBDA" width="100%" color=#DDDBDA SIZE=1>
       </li>
       <br>
       {% endfor %}
