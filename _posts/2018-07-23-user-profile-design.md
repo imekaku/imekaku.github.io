@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 用户画像设计，用户行为捕捉，分数计算
+title: 用户画像设计，行为分数计算
 category: architecture
 ---
 
