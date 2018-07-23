@@ -56,6 +56,14 @@ table {
   font: 100%;
 }
 
+.highlight {
+  border: 1px solid #dbdbdb;
+  background-color: #FFFFFF;
+  border-radius: 3px;
+
+  overflow-y: auto;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -182,7 +190,7 @@ ul.thinking span {
 
 #post pre {
   border: 1px solid #ddd;
-  background-color: #eef;
+  background-color: #FFFFFF;
   padding: 0 .4em;
 }
 
@@ -192,15 +200,14 @@ ul.thinking span {
 }
 
 #post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
+  background-color: #FFFFFF;
   font-size: 85%;
   padding: 0 .2em;
 }
 
-  #post pre code {
-    border: none;
-  }
+#post pre code {
+  border: none;
+}
 
 #post img {
   max-width: 42em;

@@ -10,19 +10,16 @@
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 
-<!--
-   <style>
-   @font-face
-	{
-   		font-family: myFirstFont;
-		src: url('/css/fangzheng.TTF');
-	}
-	div
-	{
-		font-family:myFirstFont;
-	}
-	</style> 
--->
+   <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+   </script>
+   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 </head>
 <body>
 
@@ -36,15 +33,6 @@
 
   {{ content }}
 
-<!--   <div class="footer">
-    <div class="contact">
-      <p>
-        imekaku Lee
-        <br />
-        imekaku@gmail.com
-      </p>
-    </div>
-  </div> -->
 </div>
 
 </body>
