@@ -39,7 +39,7 @@ $$ nowScore = \dfrac{score}{e^{k({g_{0} - t_{0}})}}$$
 
 那么再一次发生事件，推荐再一次根据id拉取兴趣列表和分数时的计算方式应该为：
 
-$$ nowScore = \dfrac{score_{0}}{e^{k({g_{0} - t_{0}})}} +  \dfrac{score_{1}}{e^{k({g_{1} - t_{1}})}}$$
+$$ nowScore = \dfrac{score_{0}}{e^{k({g_{1} - t_{0}})}} +  \dfrac{score_{1}}{e^{k({g_{1} - t_{1}})}}$$
 
 - g_1: 第二次推荐拉取用户画像的时间
 - t_1: 第二次时间发生的时间
@@ -72,7 +72,7 @@ $$ nowScore =  \dfrac{\dfrac{\dfrac{score_{0}}{e^{k({g_{0} - t_{0}})}}}{e^{k({t_
 
 展开之后得到和原本的计算逻辑的公式：
 
-$$ nowScore = \dfrac{score_{0}}{e^{k({g_{0} - t_{0}})}} +  \dfrac{score_{1}}{e^{k({g_{1} - t_{1}})}}$$
+$$ nowScore = \dfrac{score_{0}}{e^{k({g_{1} - t_{0}})}} +  \dfrac{score_{1}}{e^{k({g_{1} - t_{1}})}}$$
 
 <br>
 
