@@ -283,7 +283,12 @@ ul.thinking span {
   margin-top: 2em;
 }
 
-#related h2 {
+/*#related h2 {
   margin-bottom: 1em;
+}*/
+
+#related p {
+  margin-bottom: 1em;
+  font-size: 120%;
 }
 
