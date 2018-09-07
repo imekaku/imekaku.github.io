@@ -4,7 +4,7 @@ title: 用户画像设计，行为分数计算
 category: architecture
 ---
 
-# 画像数据流动
+## 画像数据流动
 
 client -> (log-server -> )log-distribution -> user-profile -> recommend
 
@@ -14,7 +14,7 @@ client -> (log-server -> )log-distribution -> user-profile -> recommend
 
 <br>
 
-# 画像数据存储
+## 画像数据存储
 
 根据行为来计算分数的画像，在画像服务侧只存储了两个数据，一个标识对何种类型感兴趣的分数，以及事件发生的时间。这里采用的redis zset存储(使用两个zset，一个存储感兴趣的类型，一个存储兴趣发生的时间)。
 
@@ -26,7 +26,7 @@ zset 分为三个部分：key,value,score。
 
 <br>
 
-# 画像分数计算
+## 画像分数计算
 
 用户发生的事件之后，推荐根据用户id拉取兴趣列表和分数时，计算规则如下
 
@@ -48,7 +48,7 @@ $$ nowScore = \dfrac{score_{0}}{e^{k({g_{1} - t_{0}})}} +  \dfrac{score_{1}}{e^{
 
 <br>
 
-# 画像分数使用存储数据计算
+## 画像分数使用存储数据计算
 
 使用zset存储的分数以及事件发生的时间只有一个值(一个score 和 一个eventTime)，所以就需要将每次的分数和对应的时间运算得出一个最新的结果。计算方式如下：
 
@@ -76,12 +76,12 @@ $$ nowScore = \dfrac{score_{0}}{e^{k({g_{1} - t_{0}})}} +  \dfrac{score_{1}}{e^{
 
 <br>
 
-# 画像合并
+## 画像合并
 
 使用zset还有一个好处是，zset提供了zunionstore方法，可以直接合并两个用户的画像，比如需要合并匿名用户和登录用户的画像。
 
 <br>
 
-# 计算逻辑
+## 计算逻辑
 
 伪码省去。

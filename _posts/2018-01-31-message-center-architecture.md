@@ -10,13 +10,13 @@ category: architecture
 
 <br>
 
-# 消息产生Producer
+## 消息产生Producer
 
 这部分主要是放在各个端中，各个端写入消息到MQ中  
 
 <br>
 
-# 消息消费BaseConsumer
+## 消息消费BaseConsumer
 
 当从MQ中订阅得到的消息之后，会有BaseConsumer分发给各个事件的消费者。这一步这要是负责把消息读取并写入redis的过程。写入redis的时候，需要产生相应的key。
 
@@ -29,7 +29,7 @@ key应该由几个部分组成：事件名+消息用户id+时间段时间戳。
 - redis list 结构的 『key-value』: 用于存放key对应的消息的列表，在某一个短时间内的相同事件的相同用户得到的消息应该被追加到同一个key里面。
 
 <br>
-# 消息聚合处理BaseProcesser
+## 消息聚合处理BaseProcesser
 
 这部分会由一个BaseProcesser周期性的读取 zset 中的key，并把这个key中redis list中获取键值对，再将消息取出来进行进一步的处理，比如调用其他接口、拼接内容等等。
 
@@ -39,7 +39,7 @@ zset 是为了并发读取的时候 能够不会被多台机器读取。
 
 <br>
 
-# 消息存储Saver
+## 消息存储Saver
 
 消息聚合处理之后会放入存储接口。通常情况下会把消息放入持久库和缓存库用于提供更快的消息查询时间。
 
