@@ -18,7 +18,7 @@ html, body {
 body {
   background-color: white;
   /*font: 13.34px helvetica, arial, clean, sans-serif;*/
-  font: 14.34px helvetica, arial, clean, sans-serif;
+  font: 14.34px STKaiti, Kaiti, helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -47,9 +47,9 @@ a:hover {
   color: black;
 }
 
-a:visited {
+/*a:visited {
   color: #a0a;
-}
+}*/
 
 table {
   font-size: inherit;
