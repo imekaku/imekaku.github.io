@@ -18,7 +18,8 @@ html, body {
 body {
   background-color: white;
   /*font: 13.34px helvetica, arial, clean, sans-serif;*/
-  font: 14.34px STKaiti, Kaiti, helvetica, arial, clean, sans-serif;
+  /*font: 14.34px STKaiti, Kaiti, helvetica, arial, clean, sans-serif;*/
+  font: 14.34px STHeiti, SimHei, helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
