@@ -104,5 +104,5 @@ public static <T, S> void copySourceToTarget(T target, S source)
 ```
 但是对于抓包抓到的返回bean中与protobuf中字段名差异很大的，还需要手动设置一下。
 
-
+后来发现，使用反射的方式要比直接new来设置对象属性的方式慢很多，就弃用这种方式了。
 
