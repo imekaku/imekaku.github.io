@@ -19,8 +19,12 @@ body {
   background-color: white;
   /*font: 13.34px helvetica, arial, clean, sans-serif;*/
   /*font: 14.34px STKaiti, Kaiti, helvetica, arial, clean, sans-serif;*/
-  font: 14.34px STHeiti, SimHei, helvetica, arial, clean, sans-serif;
-  *font-size: small;
+  font-size: 14.34px;
+  font-family: "Ubuntu Mono","Helvetica Neue",Helvetica,Arial,sans-serif;
+  /*font: 14.34px "Ubuntu Mono","Helvetica Neue",Helvetica,Arial, STHeiti, SimHei, helvetica, arial, clean, sans-serif;*/
+  /**font-size: small;*/
+  font-feature-settings: "kern" 1;
+  font-weight: 300;
   text-align: center;
 }
 
@@ -215,7 +219,8 @@ ul.thinking span {
 #post pre {
   border: 1px solid #ddd;
   background-color: #FFFFFF;
-  padding: 0 .4em;
+  padding: 0.4em;
+  overflow-y: scroll;
 }
 
 #post ul,
@@ -226,7 +231,7 @@ ul.thinking span {
 #post code {
   background-color: #FFFFFF;
   font-size: 85%;
-  padding: 0 .2em;
+  padding: 0.2em;
 }
 
 #post pre code {
