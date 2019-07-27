@@ -158,7 +158,4 @@ CalculatorFactoryHelper.updateVideoFeature.expire cost:40
 - 在hmset的地方做一个本地聚合，因为每一个field对应的value值其实是由redis中其他明细数据计算出来的。所以本地聚合像重启之类的，丢失也没有关系，只有明细数据是更新正确的，那么下一次计算就会用准确度明细数据更新。同样由于有本地聚合，特征会更新延迟一些，目前观测线上日志是每隔5s会做一个计算。时间也能够接受。
 
 
-consumer.partitionsFor()
-
-
 
