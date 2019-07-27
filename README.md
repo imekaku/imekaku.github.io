@@ -1,5 +1,5 @@
 # blog.imekaku.com
-This is a personal blog website https://blog.imekaku.com/ . 
+Personal blog website https://blog.imekaku.com/ . 
 
 I sometimes write something to record my word and life.
 
