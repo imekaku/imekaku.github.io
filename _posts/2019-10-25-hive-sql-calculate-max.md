@@ -21,4 +21,5 @@ category: architecture
 聚合之后
 
 | hashtag | items | cnt |
-| Happy   | [{"video_id":"id_1", "user_id":"uid_1", "hashtag":"happy"},{"video_id":"id_2", "user_id":"uid_2", "hashtag":"Happy"},{"video_id":"id_3", "user_id":"uid_3", "hashtag":"Happy"},]|3|
+| :--------: | :--------:| :----------: |
+| Happy   | [{"video_id":"id_1", "user_id":"uid_1", "hashtag":"happy"},{"video_id":"id_2", "user_id":"uid_2", "hashtag":"Happy"},{"video_id":"id_3", "user_id":"uid_3", "hashtag":"Happy"},] | 3 |
