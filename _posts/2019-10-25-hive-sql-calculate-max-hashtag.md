@@ -12,7 +12,7 @@ category: architecture
 
 ## 例子
 
-原始数据表
+- 原始数据表
 
 | video_id      |    user_id | hashtag |
 | -------- | --------| ---------- |
@@ -20,9 +20,9 @@ category: architecture
 | id_2  | uid_2 | Happy |
 | id_3  | uid_3 | Happy |
 
-**Happy**这个hashtag出现得最多，所以需要将所有不区分大小写的happy hashtag 都换成 **Happy**，然后聚合在一个。
+Happy这个hashtag出现得最多，所以需要将所有不区分大小写的happy hashtag 都换成 Happy，然后聚合在一个。
 
-中间表
+- 中间表
 
 | video_id      |    user_id | hashtag |
 | -------- | -------- | ----------  |
@@ -30,7 +30,7 @@ category: architecture
 | id_2  | uid_2 | Happy |
 | id_3  | uid_3 | Happy |
 
-结果表
+- 结果表
 
 | hashtag | video_items | cnt |
 | -------- | -------- | ---------- |
