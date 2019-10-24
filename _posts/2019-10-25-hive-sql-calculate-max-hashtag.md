@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 写一段SQL聚合最大值的SQL
-category: architecture
+category: code
 ---
 
 ## 背景
@@ -14,11 +14,11 @@ category: architecture
 
 - 原始数据表
 
- video_id      |    user_id | hashtag 
- -------- | --------| ---------- 
- id_1  | uid_1 | happy 
- id_2  | uid_2 | Happy 
- id_3  | uid_3 | Happy 
+| video_id      |    user_id | hashtag |
+| -------- | --------| ---------- |
+| id_1  | uid_1 | happy |
+| id_2  | uid_2 | Happy |
+| id_3  | uid_3 | Happy |
 
 Happy这个hashtag出现得最多，所以需要将所有不区分大小写的happy hashtag 都换成 Happy，然后聚合在一个。
 
