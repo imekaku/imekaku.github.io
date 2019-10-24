@@ -15,7 +15,7 @@ category: architecture
 原始数据表
 
 | video_id      |    user_id | hashtag |
-| :--------: | :--------:| :----------: |
+| -------- | --------| ---------- |
 | id_1  | uid_1 | happy |
 | id_2  | uid_2 | Happy |
 | id_3  | uid_3 | Happy |
@@ -25,7 +25,7 @@ category: architecture
 中间表
 
 | video_id      |    user_id | hashtag |
-| :--------: | :--------:| :----------: |
+| -------- | -------- | ----------  |
 | id_1  | uid_1 | Happy |
 | id_2  | uid_2 | Happy |
 | id_3  | uid_3 | Happy |
@@ -33,7 +33,7 @@ category: architecture
 结果表
 
 | hashtag | video_items | cnt |
-| :--------: | :--------:| :----------: |
+| -------- | -------- | ---------- |
 | Happy   | [{"video_id":"id_1", "user_id":"uid_1", "hashtag":"Happy"},{"video_id":"id_2", "user_id":"uid_2", "hashtag":"Happy"},{"video_id":"id_3", "user_id":"uid_3", "hashtag":"Happy"},]|3|
 
 
