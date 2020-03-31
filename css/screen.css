@@ -233,7 +233,7 @@ ul.thinking span {
 #post code {
   background-color: #FFFFFF;
   font-size: 85%;
-  padding: 0.2em;
+  /* padding: 0.2em; */
 }
 
 #post pre code {
