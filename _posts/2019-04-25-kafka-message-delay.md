@@ -11,7 +11,7 @@ category: code
 
 ## 排查过程
 
-![rts日志流程](https://raw.githubusercontent.com/imekaku/MyPicture/master/github-blog-pic/2019-04-25-rts-log-kafka.png)
+![rts日志流程](http://cdn.mycdnsite.com/blog-src/2019-04-25-rts-log-kafka.png)
 
 日志的流动过程其实并不复杂，但是很诡异的是就是查不到消息。
 
@@ -28,7 +28,7 @@ category: code
 
 然后从kafka manager里面看到确实是这样：
 
-![kafka-manager](https://raw.githubusercontent.com/imekaku/MyPicture/master/github-blog-pic/2019-04-25-kafka-manager-view.jpeg)
+![kafka-manager](http://cdn.mycdnsite.com/blog-src/2019-04-25-kafka-manager-view.jpeg)
 
 原因是日志采集服务消费得太慢，生产得太快。后面把消费者优化之后消息就逐渐减少了。
 

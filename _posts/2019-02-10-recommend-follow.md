@@ -33,7 +33,7 @@ APP用户关注不同的up，up下有众多生产的视频，用户从而有一�
 
 ## 关注推荐服务架构
 
-![关注推荐服务架构图](https://raw.githubusercontent.com/imekaku/MyPicture/master/github-blog-pic/2019-02-10-recommend-follow-server.png)
+![关注推荐服务架构图](http://cdn.mycdnsite.com/blog-src/2019-02-10-recommend-follow-server.png)
 
 存储与存储逻辑
 
