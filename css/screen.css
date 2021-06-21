@@ -277,6 +277,55 @@ ul.thinking span {
   padding: 1em 0;
 }
 
+/*****************************************************************************/
+/*
+/* Reading
+/*
+/*****************************************************************************/
+
+#reading {
+
+}
+
+/* standard */
+
+#reading pre {
+  border: 1px solid #ddd;
+  background-color: #FFFFFF;
+  padding: 0.4em;
+  overflow-x: auto;
+  /* 去除滑轨 */
+}
+
+#reading ul,
+#reading ol {
+  margin-left: 1.35em;
+}
+
+#reading code {
+  background-color: #FFFFFF;
+  font-size: 85%;
+  /* padding: 0.2em; */
+}
+
+#reading pre code {
+  border: none;
+}
+
+#reading img {
+  max-width: 42em;
+  padding: 1em 0;
+}
+
+#reading h2:before {
+    content: "#";
+    font-size: 120%;
+    color: #999;
+    line-height: 0;
+    display: inline-block;
+    margin: 0 0.3em 0 0;
+}
+
 /* terminal */
 
 #post pre.terminal {
