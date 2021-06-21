@@ -1,0 +1,4 @@
+2021-06-21 17:09:58
+新增reading tab：
+    新增category：如果新增读一本书，则需要在category_reading下，新增 书名.html 文件，此文件的category必须是 书名
+    新增读书笔记：则需要在_reading下新增 读书笔记.md ，此时的category必须为：书名

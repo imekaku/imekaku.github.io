@@ -1,3 +1,5 @@
 collections:
   thinking_collection:
     output: true
+  reading:
+    output: true
