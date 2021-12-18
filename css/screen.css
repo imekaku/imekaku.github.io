@@ -16,6 +16,9 @@ html, body {
 }
 
 body {
+  display: flex;
+  display: -webkit-flex;
+  justify-content:center;
   background-color: white;
   /*font: 13.34px helvetica, arial, clean, sans-serif;*/
   /*font: 14.34px STKaiti, Kaiti, helvetica, arial, clean, sans-serif;*/
@@ -146,9 +149,10 @@ ul.thinking span {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 42em;
   margin: 3em auto 2em auto;
-  line-height: 1.5em;
+  line-height: 1.5em; 
+  max-width: 42em;
+  padding: 2% 8% 4% 8%;
 }
 
 .title {
