@@ -246,6 +246,10 @@ ul.thinking span {
 #post img {
   max-width: 42em;
   padding: 1em 0;
+  display: inline-block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 #post h2:before {
@@ -274,8 +278,12 @@ ul.thinking span {
 }
 
 #thinking img {
-  max-width: 42em;
+  /* max-width: 42em; */
   padding: 1em 0;
+  display: inline-block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 /*****************************************************************************/
