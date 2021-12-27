@@ -1,5 +1,5 @@
 collections:
   thinking_collection:
     output: true
-  reading:
+  reading_collection:
     output: true
