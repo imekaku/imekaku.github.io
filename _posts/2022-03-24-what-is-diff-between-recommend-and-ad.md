@@ -4,22 +4,20 @@ title: 推荐引擎和广告检索引擎的异同
 category: architecture
 ---
 
-## 背景
+# 背景
 
 之前做海外短视频的推荐引擎，后面转做竞价广告的检索引擎（再后面转做品牌广告），所以一直想写下这两者：推进引擎/竞价广告检索引擎的异同。
 
-<br>
 
-## 流程概览
+# 流程概览
 
-<br>
 
-### 推荐场景流程概览：
+## 推荐场景流程概览：
 
 ![推荐流程](http://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-5.png)
 
 
-### 广告场景流程概览
+## 广告场景流程概览
 
 ![广告流程](http://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-6.png)
 
@@ -74,6 +72,6 @@ category: architecture
 
 <br>
 
-## 实时流程
+# 实时流程
 
 待续..
