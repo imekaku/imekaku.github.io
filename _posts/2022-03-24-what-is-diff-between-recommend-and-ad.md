@@ -22,7 +22,7 @@ category: architecture
 ![广告流程](http://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-6.png)
 
 
-## 物料/来源/入实时流
+# 物料/来源/入实时流
 
 当时从推荐团队到广告团队的一个原因，就是两者业务逻辑是相似。
 
