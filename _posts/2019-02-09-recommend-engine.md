@@ -35,7 +35,7 @@ category: architecture
 
 <br>
 
-![推荐feed流实时离线架构](http://blogcdn.qihope.com/github-blog-pic/2019-02-09-recommend-engine.png)
+![推荐feed流实时离线架构](https://blogcdn.qihope.com/github-blog-pic/2019-02-09-recommend-engine.png)
 
 离线部分主要交给了gump任务平台去完成这类的计算任务，gump下主要为hadoop。
 
@@ -47,7 +47,7 @@ category: architecture
 
 engine的主要任务是获取到不同的视频索引(包含视频的离线特征)，视频的实时特征，用户特征等，安装既定的公式/算法得出视频的排序列表，再根据服务的机制，筛选出定长的视频列表返回给服务调用方。
 
-![engine服务flow](http://blogcdn.qihope.com/github-blog-pic/2019-02-09-recommend-engine-flow.png)
+![engine服务flow](https://blogcdn.qihope.com/github-blog-pic/2019-02-09-recommend-engine-flow.png)
 
 主要这几个部分：
 

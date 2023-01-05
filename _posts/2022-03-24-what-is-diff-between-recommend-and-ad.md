@@ -14,12 +14,12 @@ category: architecture
 
 ## 推荐场景流程概览：
 
-![推荐流程](http://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-5.png)
+![推荐流程](https://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-5.png)
 
 
 ## 广告场景流程概览
 
-![广告流程](http://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-6.png)
+![广告流程](https://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-6.png)
 
 
 # 物料/来源/入实时流
@@ -36,11 +36,11 @@ category: architecture
 ### 物料来源
 从物料的来源的说，推荐的内容来自于用户上传、达人(签约用户)生产，或者从爬虫得到的网络资源。内容质量参差不齐，而且五花八门，所以会经过机神、多层人工审核、复审、打标等等流程。
 
-![推荐物料来源1](http://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-1.png)
+![推荐物料来源1](https://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-1.png)
 
 但是广告创意就会对内容的把控明确得多，广告主上传的创意绝大部分是符合进行投放广告位的要求的，比如图片/视频的宽高/码率等，如果出现了这样的情况，基本在广告创意阶段就会在创建阶段就会拦截，返回给客户不合规的具体情况；以及广告内容也是基本满足要求(很少出现涉黄涉政等不合规的情况)，同时在进行投放的时候，客户也能够主动选择定向、行业等信息，一定程度来补充物料信息，在通过人工审核等基本就能够投放要求。
 
-![广告物料来源](http://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-3.png)
+![广告物料来源](https://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-3.png)
 
 ### 物料下发
 
@@ -48,7 +48,7 @@ category: architecture
 
 推荐的物料来源从五花八门，所以会经过层层审核。因为推荐场景更多的是关注的物料本身，而且物料的分发和广告场景有很大的不同，接近于高分者得(当然也会有用户兴趣ee等场景，所以会让低分物料下发)。
 
-![推荐物料下发](http://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-2.png)
+![推荐物料下发](https://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-2.png)
 
 物料入库随即就会进行审核打标，使物料获得基本信息；然后进行物料的探索，一般来说会进行多轮的探索（但是在某些不太精细的场景也只有一轮）。
 
@@ -68,7 +68,7 @@ category: architecture
 
 另外，在大部分情况广告主希望的是创意进行平滑的投放，不是在某一个很短的时间就把预算花完，所以会有很多对创意维度的频控策略。推荐则是某一个内容爆火之后就会迅速蹿升，甚至后面会有运营在造势。
 
-![广告物料下发](http://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-4.png)
+![广告物料下发](https://blogcdn.qihope.com/github-blog-pic/2022-03-24-what-is-diff-between-recommend-and-ad-4.png)
 
 <br>
 

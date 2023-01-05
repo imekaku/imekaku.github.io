@@ -4,7 +4,7 @@ title: 消息中心架构浅析
 category: architecture
 ---
 
-![消息中心架构图](http://blogcdn.qihope.com/github-blog-pic/2018-02-01-message-center-architecture.png)
+![消息中心架构图](https://blogcdn.qihope.com/github-blog-pic/2018-02-01-message-center-architecture.png)
 
 在开发消息中心时，需要将各个端产生的消息进行聚合，并调用其他的接口获取额外的信息之后，再在消息获取接口提供。  
 

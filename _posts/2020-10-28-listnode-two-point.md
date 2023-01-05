@@ -14,7 +14,7 @@ Notice that you should not modify the linked list.
 <br>
 [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
-![快慢指针图](http://blogcdn.qihope.com/github-blog-pic/2020-10-28-listnode-two-point.png)
+![快慢指针图](https://blogcdn.qihope.com/github-blog-pic/2020-10-28-listnode-two-point.png)
 
 很简单的一道题，很久没看都快忘记了。
 
