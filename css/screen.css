@@ -99,6 +99,8 @@ blockquote p {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 ul.posts li {
