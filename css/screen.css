@@ -151,11 +151,15 @@ ul.thinking span {
   color: #a00;
   font-weight: bold;
   margin-bottom: 2em;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .site .title a {
   color: #a00;
   text-decoration: none;
+  flex: 0 0 auto;
 }
 
 .site .title a:hover {
@@ -165,7 +169,7 @@ ul.thinking span {
 .site .title a.extra {
   color: #aaa;
   text-decoration: none;
-  margin-left: 1em;
+  margin-left: 0.1em;
 }
 
 .site .title a.extra:hover {
@@ -201,6 +205,20 @@ ul.thinking span {
 
 .site .footer .rss img {
   border: 0;
+}
+
+/* 在屏幕宽度小于600px时，子元素的间距为10% */
+@media (max-width: 600px) {
+  .title a {
+    margin-right: 3%;
+  }
+}
+
+/* 在屏幕宽度大于600px时，子元素的间距为20px */
+@media (min-width: 601px) {
+  .title a {
+    margin-right: 20px;
+  }
 }
 
 /*****************************************************************************/
