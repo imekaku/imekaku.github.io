@@ -100,6 +100,7 @@ ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
   white-space: nowrap;
+  overflow: hidden;
   text-overflow: ellipsis;
 }
 
