@@ -390,3 +390,9 @@ ul.thinking span {
   color: black;
   background-color: white;
 }
+
+@media (max-width: 800px) {
+  #diy_right_menu {
+    display: none;
+  }
+}
