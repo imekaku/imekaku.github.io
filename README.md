@@ -1,6 +1,6 @@
 # blog.imekaku.com
 
-This is the code repository for my personal blog https://blog.imekaku.com/.
+This is the code repository for my personal blog https://blog.imekaku.com.
 
 Sometimes, I write something to record my work and life.
 
