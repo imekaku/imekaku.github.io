@@ -1,9 +1,10 @@
 # blog.imekaku.com
-Personal blog website https://blog.imekaku.com/ . 
 
-I sometimes write something to record my word and life.
+This is the code repository for my personal blog https://blog.imekaku.com/.
+
+Sometimes, I write something to record my work and life.
 
 # Thanks
 Thanks to **mojombo**. 
 
-This blog uses some source code from https://github.com/mojombo/mojombo.github.io, exclude something belonged Mr.mojombo like _posts/, images/.
+This code repository uses some code from mojombo https://github.com/mojombo/mojombo.github.io, but does not include mojombo's _posts/, _images/ and some other content.
