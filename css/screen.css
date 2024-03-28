@@ -144,7 +144,7 @@ ul.thinking span {
 .site {
   font-size: 110%;
   text-align: justify;
-  margin: 3em auto 2em auto;
+  margin: auto auto auto auto;
   line-height: 1.5em; 
   max-width: 42em;
   padding: 0% 8% 4% 6%;
