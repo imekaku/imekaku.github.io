@@ -21,7 +21,7 @@
   </script>
   <!-- modify MathJax.js to Chinese CDN -->
   <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
-  <script src="https://cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <!-- <script src="https://cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
 
 </head>
 <body>
@@ -45,6 +45,15 @@
   {{ content }}
 
 </div>
+
+<script>
+window.onload = function() {
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    document.body.appendChild(script);
+};
+</script>
 
 </body>
 </html>
