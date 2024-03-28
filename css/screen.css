@@ -210,6 +210,13 @@ ul.thinking span {
   border: 0;
 }
 
+/* 在屏幕宽度小于800px时，隐藏tab% */
+@media (max-width: 800px) {
+  #home_tab_list {
+    display: none;
+  }
+}
+
 /* 在屏幕宽度小于600px时，子元素的间距为10% */
 @media (max-width: 600px) {
   .title a {
