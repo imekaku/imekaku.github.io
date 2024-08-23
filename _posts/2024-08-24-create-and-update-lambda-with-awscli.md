@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用awscli创建并更新AWS Lambda
-category: architecture
+category: code
 ---
 
 # 1. 背景
