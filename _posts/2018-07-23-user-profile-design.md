@@ -2,6 +2,7 @@
 layout: post
 title: 用户画像设计，行为分数计算
 category: architecture
+tag: [formula]
 ---
 
 ## 画像数据流动

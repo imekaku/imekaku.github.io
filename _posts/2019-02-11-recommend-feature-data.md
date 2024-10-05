@@ -2,6 +2,7 @@
 layout: post
 title: 推荐feed特征储存以及计算方式概要
 category: architecture
+tag: [formula]
 ---
 
 ## 特征存储

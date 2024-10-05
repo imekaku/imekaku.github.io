@@ -11,6 +11,7 @@
   <!-- Homepage CSS -->
   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 
+  {% if page.tags contains "formula" %}
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
@@ -19,10 +20,7 @@
       }
     });
   </script>
-  <!-- modify MathJax.js to Chinese CDN -->
-  <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
-  <!-- <script src="https://cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
-
+  {% endif %}
 </head>
 <body>
 
@@ -46,6 +44,7 @@
 
 </div>
 
+{% if page.tags contains "formula" %}
 <script>
 window.onload = function() {
     var script = document.createElement('script');
@@ -54,7 +53,11 @@ window.onload = function() {
     document.body.appendChild(script);
 };
 </script>
+{% endif %}
 
 </body>
 </html>
 
+<!-- modify MathJax.js to Chinese CDN -->
+<!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
+<!-- <script src="https://cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
