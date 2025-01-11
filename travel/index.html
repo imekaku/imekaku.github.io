@@ -5,9 +5,9 @@ title: Travel
 
 <!-- 用于网站 tavel tab页面显示travel的post列表 -->
 
-<div id="travel">
+<div id="home">
     <h1>Travel</h1>
-    <ul class="travel">
+    <ul class="posts">
         {% for post in site.travel_collection reversed %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
