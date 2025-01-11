@@ -50,6 +50,16 @@ a {
   color: #00a;
 }
 
+.meta a {
+  color: #00a;
+  text-decoration: underline;
+}
+
+p a {
+  color: #00a;
+  text-decoration: underline;
+}
+
 a:hover {
   color: black;
 }
