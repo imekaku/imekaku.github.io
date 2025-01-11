@@ -7,9 +7,10 @@ title: imekaku's blog
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      {% unless post.categories contains "travel" %}
+      <!-- {% unless post.categories contains "travel" %} -->
+      <!-- 之前需要在首页post中不显示travel，所以强制过滤掉travel的post -->
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endunless %}
+      <!-- {% endunless %} -->
     {% endfor %}
   </ul>
 </div>

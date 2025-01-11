@@ -3,3 +3,5 @@ collections:
     output: true
   reading_collection:
     output: true
+  travel_collection:
+    output: true

@@ -1,0 +1,22 @@
+---
+layout: default
+title: Category Travel
+---
+
+<div id="home">
+    {% assign til = site.travel %}
+    {% assign categories =  til | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "name" %}
+    {% for category in categories %}
+        <h1>{{ category.name | capitalize }}</h1>
+        
+        {% assign posts = til | where: "categories", category.name | sort: "date" | reverse  %}
+        
+        {% for post in posts %}
+        <li>
+            <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </br>
+    </br>
+    {% endfor %}
+</div>

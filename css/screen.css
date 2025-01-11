@@ -329,6 +329,55 @@ ul.thinking span {
 
 /*****************************************************************************/
 /*
+/* Travel
+/*
+/*****************************************************************************/
+
+#travel {
+
+}
+
+/* standard */
+
+#travel pre {
+  border: 1px solid #ddd;
+  background-color: #FFFFFF;
+  padding: 0.4em;
+  overflow-x: auto;
+  /* 去除滑轨 */
+}
+
+#travel ul,
+#travel ol {
+  margin-left: 1.35em;
+}
+
+#travel code {
+  background-color: #FFFFFF;
+  font-size: 85%;
+  /* padding: 0.2em; */
+}
+
+#travel pre code {
+  border: none;
+}
+
+#travel img {
+  max-width: 42em;
+  padding: 1em 0;
+}
+
+#travel h2:before {
+    content: "#";
+    font-size: 120%;
+    color: #999;
+    line-height: 0;
+    display: inline-block;
+    margin: 0 0.3em 0 0;
+}
+
+/*****************************************************************************/
+/*
 /* Reading
 /*
 /*****************************************************************************/

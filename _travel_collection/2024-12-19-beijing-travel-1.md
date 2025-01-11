@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_travel
 title: 北京 - 环球影城
 category: travel
 tag: [北京]
