@@ -388,17 +388,17 @@ ul.thinking span {
 
 /*****************************************************************************/
 /*
-/* Reading
+/* Read
 /*
 /*****************************************************************************/
 
-#reading {
+#read {
 
 }
 
 /* standard */
 
-#reading pre {
+#read pre {
   border: 1px solid #ddd;
   background-color: #FFFFFF;
   padding: 0.4em;
@@ -406,27 +406,27 @@ ul.thinking span {
   /* 去除滑轨 */
 }
 
-#reading ul,
-#reading ol {
+#read ul,
+#read ol {
   margin-left: 1.35em;
 }
 
-#reading code {
+#read code {
   background-color: #FFFFFF;
   font-size: 85%;
   /* padding: 0.2em; */
 }
 
-#reading pre code {
+#read pre code {
   border: none;
 }
 
-#reading img {
+#read img {
   max-width: 42em;
   padding: 1em 0;
 }
 
-#reading h2:before {
+#read h2:before {
     content: "#";
     font-size: 120%;
     color: #999;

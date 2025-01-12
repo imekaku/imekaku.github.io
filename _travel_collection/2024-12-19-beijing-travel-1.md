@@ -15,7 +15,7 @@ tag: [北京]
 
 入园还是比较方便的，坐1号线终点站出去，沿着指示就可以入园了。入园需要排一会儿的队，需要使用身份证，人脸识别+刷身份证就可以入园。
 
-![入园](https://blogcdn.qihope.com/github-blog-pic/2024-12-19-beijing-travel-1-1.png)
+![入园](https://blogcdn.qihope.com/github-life/2024-12-19-beijing-travel-1-1.png)
 
 入园游安检，但是基本等同于地铁安检那种，属于马马虎虎的。可以带水和吃的，最好带一瓶水（园区里面的纯净水10块钱一瓶）。吃的就见仁见智了，园区里面吃的比较贵，我在「功夫熊猫盖世之地」吃的一碗担担面50块，其实味道还可以。
 
@@ -23,7 +23,7 @@ tag: [北京]
 
 ## 游玩、直奔而去
 
-![景区地图](https://blogcdn.qihope.com/github-blog-pic/2024-12-19-beijing-travel-1-6.png)
+![景区地图](https://blogcdn.qihope.com/github-life/2024-12-19-beijing-travel-1-6.png)
 
 上面是高德地图，搭配环球影城的微信小程序的地图和列表非常有用。在小程序中有各个项目的排队时间，并且是实时更新的，这个很棒。
 
@@ -33,7 +33,7 @@ tag: [北京]
 
 接着依次去了「变形金刚：火种源争夺战」、去了「功夫熊猫盖世之地」吃饭、中间看了花车巡游、去了「侏罗纪世界大冒险」、「超萌漩漩涡」、「神偷奶爸小黄人闹翻天」。
 
-![花车巡游](https://blogcdn.qihope.com/github-blog-pic/2024-12-19-beijing-travel-1-4.png)
+![花车巡游](https://blogcdn.qihope.com/github-life/2024-12-19-beijing-travel-1-4.png)
 
 ## 演出可能比游玩还值得
 
@@ -41,17 +41,17 @@ tag: [北京]
 
 「欢乐好声音巡演」是动物角色唱歌演出，虽然里面的角色人物玩一个都不认识，但是很不错，而且我进去的时候是坐第一排，虽然是靠很边上的位置。这个演出是每隔多少时间有一场的，也需要排队。
 
-![欢乐好声音](https://blogcdn.qihope.com/github-blog-pic/2024-12-19-beijing-travel-1-2.png)
+![欢乐好声音](https://blogcdn.qihope.com/github-life/2024-12-19-beijing-travel-1-2.png)
 
 「不可驯服」我觉得可能是整个游玩top2的，剧情衔接驯龙高手，虽然我没怎么看过，但是舞台效果和空中的飞龙都很震撼。
 
-![不可驯服](https://blogcdn.qihope.com/github-blog-pic/2024-12-19-beijing-travel-1-3.png)
+![不可驯服](https://blogcdn.qihope.com/github-life/2024-12-19-beijing-travel-1-3.png)
 
 意外之喜是「灯光，摄影，开拍！」，这个是准备走的时候的集合地点。到了之后，说只用5分钟就能排完队伍，就进去看了，很非常震撼。立体的特效现场。
 
 夜景圣诞树🎄：
 
-![圣诞树灯光](https://blogcdn.qihope.com/github-blog-pic/2024-12-19-beijing-travel-1-5.png)
+![圣诞树灯光](https://blogcdn.qihope.com/github-life/2024-12-19-beijing-travel-1-5.png)
 
 ## 结尾，饭局
 

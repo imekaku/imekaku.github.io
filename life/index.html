@@ -4,9 +4,9 @@ title: Life
 ---
 
 <div id="home">
-    <h1>Reading</h1>
+    <h1>Read</h1>
     <ul class="posts">
-        {% for post in site.reading_collection reversed %}
+        {% for post in site.read_collection reversed %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
