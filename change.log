@@ -6,3 +6,7 @@
 2025-01-12 11:14:27
 新增travel collection:
     修改原reading tab为life tab，并把travel,read(原reading)放入其中
+
+2025-02-06 00:10:13
+新增life collection:
+    将原有的read,travel合并在life collection
