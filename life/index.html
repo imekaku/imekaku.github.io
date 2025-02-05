@@ -4,17 +4,44 @@ title: Life
 ---
 
 <div id="home">
-    <h1>Read</h1>
-    <ul class="posts">
-        {% for post in site.read_collection reversed %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% assign categories = '' %}
+    {% assign category_posts = {} %}
+    
+    {% for post in site.life_collection %}
+        {% for category in post.categories %}
+            {% capture category_key %}category-{{ category | slugify }}{% endcapture %}
+            {% unless categories contains category_key %}
+                {% assign categories = categories | append: category_key | append: ',' %}
+            {% endunless %}
+            {% if category_posts[category_key] %}
+                {% assign category_posts[category_key] = category_posts[category_key] | append: post.id | append: ',' %}
+            {% else %}
+                {% assign category_posts = category_posts | append: category_key | append: ',' %}
+                {% assign category_posts = category_posts | append: post.id | append: ',' %}
+            {% endif %}
         {% endfor %}
-    </ul>
-
-    <h1>Travel</h1>
-    <ul class="posts">
-        {% for post in site.travel_collection reversed %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
+    {% endfor %}
+    
+    {% assign category_names = categories | split: ',' | uniq %}
+    
+    {% for category_key in category_names %}
+        {% if category_key != '' %}
+            {% assign category = category_key | remove: 'category-' %}
+            <h1> {{ category }} </h1>
+            <ul class="posts">
+                {% assign post_ids = category_posts | split: ',' | select: "contains", category_key | join: ',' | remove: category_key | split: ',' | uniq %}
+                {% assign sorted_posts = site.life_collection | where: "id", post_ids | sort: "date" | reverse %}
+                {% for post in sorted_posts %}
+                    {% if post.categories contains category %}
+                        <li>
+                            <span>{{ post.date | date_to_string }}</span> &raquo; 
+                            <a href="{{ post.url }}">{{ post.title }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endfor %}
 </div>
+
+

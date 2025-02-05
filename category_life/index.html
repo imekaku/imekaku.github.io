@@ -1,0 +1,15 @@
+---
+layout: default
+title: Category
+---
+
+<div id="home">
+    {% for category in site.categories %}
+        <h2>分类: <a href="/category_life/{{ category | first }}.html">{{ category | first }}</a> 数量: {{ category | last | size }} </h2>
+        <ul class="posts">
+            {% for post in category.last %}
+            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+</div>

@@ -1,7 +1,5 @@
 collections:
   thinking_collection:
     output: true
-  read_collection:
-    output: true
-  travel_collection:
+  life_collection:
     output: true

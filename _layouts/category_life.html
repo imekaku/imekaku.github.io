@@ -4,8 +4,8 @@ layout: default
 <div id="home">
 
     <h1>{{ page.category }}</h1>
-    {% assign til = site.read_collection %}
-    {% assign categories =  til | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "name" %}
+    {% assign til = site.life_collection %}
+    {% assign categories = til | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "name" %}
     {% for category in categories %}
         {% if category.name == page.category %}
             {% assign posts = til | where: "categories", category.name | sort: "date" | reverse  %}

@@ -1,5 +1,5 @@
 ---
-layout: post_read
+layout: post_life
 title: 读《无职转生～到了异世界就拿出真本事》
 category: read
 ---
