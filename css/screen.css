@@ -492,3 +492,34 @@ ul.thinking span {
     display: none;
   }
 }
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  /* 3列 */
+  gap: 10px;
+  /* 图片间距 */
+  max-width: 900px;
+  margin: auto;
+}
+
+.image-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .image-grid {
+    grid-template-columns: repeat(2, 1fr);
+    /* 小屏幕时每行2张 */
+  }
+}
+
+@media (max-width: 480px) {
+  .image-grid {
+    grid-template-columns: 1fr;
+    /* 超小屏幕每行1张 */
+  }
+}
