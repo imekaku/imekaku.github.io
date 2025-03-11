@@ -13,11 +13,11 @@ tag: [重庆,四川]
 
 招商的信用卡可以去机场贵宾厅，来回分别在首都机场和重庆机场吃了一份面条。
 
-![首都机场面条](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-1.png)
+![首都机场面条](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-1.png?x-oss-process=image/resize,p_80)
 
 另我比较惊讶是，回去坐的四川航空，空姐会端着一瓶老干妈，依次问你要不要来一勺？哈哈哈哈
 
-![四川航空餐食](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-2.png)
+![四川航空餐食](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-2.png?x-oss-process=image/resize,p_80)
 
 ## 重庆
 
@@ -25,20 +25,20 @@ tag: [重庆,四川]
 
 现在要聚一次很难了，一般都是春节这种大节日才能聚上一次。去看了下朋友在重庆的豪宅，和他家里面人一起涮火锅一起闲聊了一些。
 
-![朝天门](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-3.png)
+![朝天门](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-3.png?x-oss-process=image/resize,p_80)
 
 ## 回家
 
 在家里面躺平真的很舒服，能吃到老妈做的可口的饭菜。
 
-![躺平](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-5.png)
+![躺平](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-5.png?x-oss-process=image/resize,p_80)
 
 我在看电视的时候，居然弹出一个地震提醒，然后到了预报的那个时间，真的体感有地震，现在的防灾真的很先进。
 
-![地震提醒](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-6.png)
+![地震提醒](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-6.png?x-oss-process=image/resize,p_80)
 
 ## 返程
 
 回北京的时候，我姐开车送我。下午的时候，我们吃过火锅，去机场的路上大雾漫漫。
 
-![雾都](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-7.png)
+![雾都](https://blogcdn.qihope.com/github-life/2025-02-08-chongqing-travel-1-7.png?x-oss-process=image/resize,p_80)
