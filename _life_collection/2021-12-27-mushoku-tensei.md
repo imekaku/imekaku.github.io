@@ -16,7 +16,7 @@ category: read
 
 艾莉丝离开鲁迪的那些话，感觉好喜欢艾莉丝。会为他人着想，体谅鲁迪，为了变得更强而离开鲁迪。
 
-![艾莉丝离开鲁迪时的回忆](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-1.png?x-oss-process=image/resize,p_70)
+![艾莉丝离开鲁迪时的回忆](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-1.png?x-oss-process=image/quality,q_30)
 
 ### 无职转生#番外，艾莉丝太帅了。
 
@@ -30,7 +30,7 @@ category: read
 
 希露菲和鲁迪结婚了，很甜。
 
-![希露菲、鲁迪 结婚](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-2.png?x-oss-process=image/resize,p_70)
+![希露菲、鲁迪 结婚](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-2.png?x-oss-process=image/quality,q_30)
 
 ### 无职转生#81，希露菲和鲁迪结婚（后）。
 
@@ -40,7 +40,7 @@ category: read
 
 我觉得这个评语讲的很对，爱丽丝的笑容可能以后都见不到了。即使变强了又怎样呢？。
 
-![艾莉丝的笑容](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-3.png?x-oss-process=image/resize,p_70)
+![艾莉丝的笑容](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-3.png?x-oss-process=image/quality,q_30)
 
 ### 无职转生#92，93，诺伦。
 
@@ -80,7 +80,7 @@ category: read
 
 ### 无职转生# 十五卷，鲁迪、奥尔斯帝德，艾莉丝回归。
 
-![艾莉丝回归](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-4.jpg?x-oss-process=image/resize,p_70)
+![艾莉丝回归](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-4.jpg?x-oss-process=image/quality,q_30)
 
 看到未来鲁迪的日志，真是感慨呀，一个小的举动引发了这么多后续的事情。感觉那个时候的鲁迪真的好绝望，身边的人接连的被害，死去，鲁迪不能振作精神应该也能够理解吧。
 
@@ -90,7 +90,7 @@ category: read
 
 ### 无职转生# 十七卷，爱丽儿回归王都
 
-![希露菲的抉择](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-5.jpg?x-oss-process=image/resize,p_70)
+![希露菲的抉择](https://blogcdn.qihope.com/github-life/2021-12-27-Mushoku-Tensei-5.jpg?x-oss-process=image/quality,q_30)
 
 是前一段时间看的了，今天才写。
 
