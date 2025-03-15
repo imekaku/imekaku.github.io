@@ -10,7 +10,6 @@ category: code
 使用 java.util.concurrent.CompletableFuture 类中 runAsync 提交任务，由于没有指定线程池，使用的是ForkJoinPool.commonPool()作为线程池执行异步代码。
 线上任务提交得太快，线程池中线程执行任务太慢，导致创建太多线程，以及提交到任务队列，任务队列不断增加，耗光内存，线上大量的GC。
 
-<br>
 ## 优化
 
 首先这边先使用自定义线程池，还是发现队列过长，以及创建线程数过多的情况
@@ -26,7 +25,6 @@ category: code
 ```
 其实关键是maximumPoolSize和workQueue，控制好最大线程数以及任务队列(最好为阻塞的)，以及拒接策略。
 
-<br>
 ## ThreadPoolExecutor线程池的构造函数
 
 ```java
@@ -40,7 +38,6 @@ public ThreadPoolExecutor(int corePoolSize,
 }
 ```
 
-<br>
 ### 线程池参数说明
 
 int corePoolSize 线程池中保留的线程数量
@@ -147,7 +144,6 @@ public static class DiscardOldestPolicy implements RejectedExecutionHandler {
 }
 ```
 
-<br>
 ## 备忘：直接创建Thread两种方式
 
 ```java

@@ -8,7 +8,6 @@ category: code
 
 在平时工作开发的过程中，代码发布走的是pipeline（包括build VersionSet，代码打包，编译，以及在cloudformation设置资源和部署），整个流程快的话也需要半小时左右。所以debug使用单独推的lambda代码可能更为方便。
 
-<br>
 
 # 2. Python方式
 
@@ -45,7 +44,6 @@ aws iam attach-role-policy --role-name lambda-ex \
 --policy-arn arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
 ```
 
-<br>
 
 ## 2.2 打包Lambda执行文件
 
@@ -84,7 +82,6 @@ DemoPython/
 zip -r ../function.zip .
 ```
 
-<br>
 
 ## 2.3 创建并推送Lambda
 
@@ -102,13 +99,11 @@ aws lambda update-function-code --function-name DemoPython \
 --zip-file fileb://function.zip
 ```
 
-<br>
 
 ## 2.4 附
 
 如果是已存在的python lambda，则不需要使用上面的创建role，创建lambda等步骤，直接打包，然后update-function-code即可推送至aws。
 
-<br>
 
 # 3. Java方式
 
@@ -248,7 +243,6 @@ aws lambda update-function-code --function-name DemoJava \
 --zip-file fileb://./target/DemoJava-1.0-SNAPSHOT.jar
 ```
 
-<br>
 
 # 4. 更新handle入口函数
 

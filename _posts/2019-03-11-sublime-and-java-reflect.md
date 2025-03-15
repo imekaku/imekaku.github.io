@@ -18,7 +18,6 @@ category: code
 }
 ```
 
-<br>
 
 ## Sublime 替换步骤
 
@@ -62,7 +61,6 @@ private String musicAuthor;
 
 如果有多个下划线，就多替换几次。
 
-<br>
 ## Java反射
 
 protobuf生成的Java类中的每一个字段后面都有一个下划线，类似于

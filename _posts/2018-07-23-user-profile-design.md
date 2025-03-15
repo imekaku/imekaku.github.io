@@ -13,7 +13,6 @@ client -> (log-server -> )log-distribution -> user-profile -> recommend
 
 用户画像服务得到日志，并计算存储画像数据。当推荐服务请求画像时，再根据画像数据，按照时间衰减得出当前的兴趣列表以及对应的分数。在根据兴趣列表拉取到内容列表，根据内容的item_ctr * 拉取到的分数进行排序。
 
-<br>
 
 ## 画像数据存储
 
@@ -25,7 +24,6 @@ zset 分为三个部分：key,value,score。
 - value: 感兴趣的类型的id/name
 - score: 为分数或者事件发生的时间
 
-<br>
 
 ## 画像分数计算
 
@@ -47,7 +45,6 @@ $$ nowScore = \dfrac{score_{0}}{e^{k({g_{1} - t_{0}})}} +  \dfrac{score_{1}}{e^{
 
 并且依次类推，以及相加之后发生事件的分数和对应的时间。
 
-<br>
 
 ## 画像分数使用存储数据计算
 
@@ -75,13 +72,11 @@ $$ nowScore =  \dfrac{\dfrac{\dfrac{score_{0}}{e^{k({g_{0} - t_{0}})}}}{e^{k({t_
 
 $$ nowScore = \dfrac{score_{0}}{e^{k({g_{1} - t_{0}})}} +  \dfrac{score_{1}}{e^{k({g_{1} - t_{1}})}}$$
 
-<br>
 
 ## 画像合并
 
 使用zset还有一个好处是，zset提供了zunionstore方法，可以直接合并两个用户的画像，比如需要合并匿名用户和登录用户的画像。
 
-<br>
 
 ## 计算逻辑
 
