@@ -23,23 +23,23 @@ body {
 }
 
 h1 {
+  margin: 1.2em 0;
   font-size: 130%;
 }
 
 h2 {
+  margin: 1em 0;
   font-size: 120%;
 }
 
 h3 {
+  margin: 1em 0;
   font-size: 110%;
 }
 
 h4, h5, h6 {
+  margin: 1em 0;
   font-size: 100%;
-}
-
-h1 {
-  margin-bottom: 1em;
 }
 
 p {
@@ -261,6 +261,10 @@ ul.thinking span {
   /* 去除滑轨 */
 }
 
+#post pre code {
+  border: none;
+}
+
 #post ul,
 #post ol {
   margin-left: 1.35em;
@@ -279,10 +283,6 @@ ul.thinking span {
   font-family: Consolas, "Courier New", monospace; /* 设置字体 */
   border-radius: 4px; /* 设置圆角 */
   padding: 0.2em 0.4em; /* 设置内边距 */
-}
-
-#post pre code {
-  border: none;
 }
 
 #post img {
