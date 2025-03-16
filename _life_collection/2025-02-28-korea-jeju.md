@@ -11,7 +11,7 @@ tag: [韩国]
 
 总体的行程图下图（济州岛市区 -> 牛岛 -> 西归浦市 -> 济州岛市区）(2025年2月28日出发，2025年3月3日回)：
 
-![行程总览](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0001.png?x-oss-process=image/quality,q_30)
+![行程总览](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0001.png?x-oss-process=image/quality,q_30)
 
 出发前所需的东西：
 - 护照
@@ -28,9 +28,9 @@ tag: [韩国]
 飞机餐还可以，有三文鱼。
 
 <div class="image-grid">
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0002.png?x-oss-process=image/quality,q_30" alt="机场值机"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0003.png?x-oss-process=image/quality,q_30" alt="信息填写表"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0004.png?x-oss-process=image/quality,q_30" alt="飞机餐"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0002.png?x-oss-process=image/quality,q_30" alt="机场值机"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0003.png?x-oss-process=image/quality,q_30" alt="信息填写表"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0004.png?x-oss-process=image/quality,q_30" alt="飞机餐"></div>
 </div>
 
 <br>
@@ -50,11 +50,11 @@ tag: [韩国]
 
 乘坐365路公交车去往海边，以下是路线图。比较费解的是，Google地图上显示的是365-1路公交车，好像是有什么区分，不过公交车上实际没显示。韩国的公交站都特别短，很容易就坐过站了。并且公交车上有一个红色的STOP按钮，初看起来像是什么紧急停止按钮，但是其实是停站按钮，不按公交车可能不会停。
 
-![路线图](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0005.png?x-oss-process=image/quality,q_30)
+![路线图](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0005.png?x-oss-process=image/quality,q_30)
 
 随后找了一家面馆，意外的味道还不错。这种面条好像是济州岛/韩国的一种特色，在很多地方都有。猪肉是有味道的，不是那种完全的水煮白肉。
 
-![面条](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0006.png?x-oss-process=image/quality,q_30)
+![面条](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0006.png?x-oss-process=image/quality,q_30)
 
 ```
 餐厅名字：동진식당공항점
@@ -66,20 +66,20 @@ tag: [韩国]
 
 随后沿着街道和海边散步，风景很漂亮。
 
-![面条](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0007.png?x-oss-process=image/quality,q_30)
+![面条](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0007.png?x-oss-process=image/quality,q_30)
 
 街道、海边风景：
 
 <div class="image-grid">
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0008.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0009.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0010.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0011.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0012.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0013.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0014.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0015.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0016.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0008.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0009.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0010.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0011.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0012.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0013.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0014.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0015.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0016.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
 </div>
 
 <br>
@@ -88,11 +88,11 @@ tag: [韩国]
 
 第二天从酒店出发，就去往牛岛方向。从市区去牛岛特别远，坐公交大概要2-3个小时。
 
-![路线图](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0017.png?x-oss-process=image/quality,q_30)
+![路线图](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0017.png?x-oss-process=image/quality,q_30)
 
 出发前找了一家店吃了一顿饭，马马虎虎，每天什么特色。
 
-![午餐](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0018.png?x-oss-process=image/quality,q_30)
+![午餐](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0018.png?x-oss-process=image/quality,q_30)
 
 ```
 餐厅名字：으랏차차 우동부
@@ -106,7 +106,7 @@ tag: [韩国]
 
 咖啡馆：
 
-![咖啡](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0019.png?x-oss-process=image/quality,q_30)
+![咖啡](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0019.png?x-oss-process=image/quality,q_30)
 
 ```
 咖啡店：Cafe Coji
@@ -122,15 +122,15 @@ tag: [韩国]
 
 岛上花生冰淇淋确实很好吃。
 
-![花生冰淇凌](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0047.png?x-oss-process=image/quality,q_30)
+![花生冰淇凌](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0047.png?x-oss-process=image/quality,q_30)
 
 <div class="image-grid">
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0021.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0022.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0023.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0024.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0025.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0026.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0021.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0022.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0023.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0024.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0025.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0026.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
 </div>
 
 在岛上淋了一会儿雨，然后去酒店的时候，公交车还坐过站了，很多人都是回市区的，我住在牛岛这边的酒店。有点衰。
@@ -146,7 +146,7 @@ tag: [韩国]
 
 找了一家炸鸡店，都来韩国了，还是尝尝炸鸡。味道还不错，我更喜欢原味的炸鸡，有点吃不惯非原味的那个酱汁。我这个应该是多人份的，我去的时候店里面有一桌客人也在吃，也是每人点了一杯啤酒，然后这样一份炸鸡。老板很nice，还送了我一个橘子。
 
-![炸鸡](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0027.png?x-oss-process=image/quality,q_30)
+![炸鸡](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0027.png?x-oss-process=image/quality,q_30)
 
 ```
 餐厅名称：옛날통닭 성산점
@@ -162,14 +162,14 @@ tag: [韩国]
 
 第三天，乘坐公交车去南边的西归浦市。我看了地图，懵了。90来个公交站，也是接近3个小时。
 
-![路线](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0028.png?x-oss-process=image/quality,q_30)
+![路线](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0028.png?x-oss-process=image/quality,q_30)
 
 达到后，天依然下着雨，幸亏我此次出门带了一把伞。找了一家咖啡店，喝了一杯咖啡，吃了一个面包。咖啡店环境很好，不过我觉得价格有点偏贵了。
 
 <div class="image-grid">
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0029.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0030.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0031.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0029.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0030.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0031.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
 </div>
 
 ```
@@ -182,7 +182,7 @@ tag: [韩国]
 
 随后又在附近吃了一碗面，本来点的是什么鱼的面，但是一点鱼都没有。味道还可以，如果换成猪肉面的话，应该还不错。
 
-![面](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0032.png?x-oss-process=image/quality,q_30)
+![面](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0032.png?x-oss-process=image/quality,q_30)
 
 ```
 餐厅名称：Mandolong Noodle House 맨도롱국수집
@@ -199,15 +199,15 @@ tag: [韩国]
 周围的环境很不错，展览馆健在山壁上，下面就是悬崖和海。当天还有一些小雨，俨然一片仙人居所。
 
 <div class="image-grid">
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0033.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0034.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0035.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0036.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0037.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0038.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0041.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0039.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0040.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0033.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0034.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0035.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0036.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0037.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0038.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0041.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0039.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0040.JPG?x-oss-process=image/quality,q_30" alt="济州岛"></div>
 </div>
 
 随后，坐公交回济州岛市区。乘坐的是600路公交车，这个公交车站好像是根据距离来收费的，回市区好像因为距离比较远，好像是比较贵的。我上车后，有一对中国的情侣，想要刷卡上车，就是因为公交卡里面的钱不够，刷不了。我说可以刷我的，结果我的也不够。。（我在机场办理公交卡的时候充值是20000韩元，约100人民币）。不过好在公交车可以扫支付宝，那对情侣才方便乘车的。
@@ -225,7 +225,7 @@ tag: [韩国]
 
 尝了一家店的烤肥肠，还可以，价格很便宜，但是那个紫菜炒饭我不太吃得惯。
 
-![烤肥肠](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0042.png?x-oss-process=image/quality,q_30)
+![烤肥肠](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0042.png?x-oss-process=image/quality,q_30)
 
 ```
 餐厅名称：Magsoe 막쇠
@@ -241,7 +241,7 @@ tag: [韩国]
 
 第二天去尝了一家鸡汤粥，也还不错。鸡肉不那么柴，还有鲍鱼。汤里面有粥，所以不用额外配米饭。我觉得这家是最中国化的一家餐厅了，店员和当时就餐的客人都说中国话。像是中国餐厅。
 
-![鸡汤鲍鱼粥](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0043.png?x-oss-process=image/quality,q_30)
+![鸡汤鲍鱼粥](https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0043.png?x-oss-process=image/quality,q_30)
 
 ```
 餐厅名称：莲洞本家 연동본가
@@ -254,8 +254,8 @@ tag: [韩国]
 下午回去的时候也在下雨，我还以为要延误了。结果很准时的。我在机场买了一些零食带回去，然后将没花完的韩币（60000韩元）换成人民币（281元），发现汇率好亏。回去的飞机餐也不错，虽然没有三文鱼了。
 
 <div class="image-grid">
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0044.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
-  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju-0045.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0044.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
+  <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-02-28-korea-jeju/2025-02-28-korea-jeju-0045.png?x-oss-process=image/quality,q_30" alt="济州岛"></div>
 </div>
 
 <br>
