@@ -106,4 +106,6 @@ Amazon Bedrock -> (Foundation models) Imported models -> (Button) Import model
 
 Amazon Bedrock -> (Build tools) Knowledge Bases
 
+更新：
 
+我使用公司的AWS Account添加成功。在这里需要可以把文档放入S3，然后选择一个embeding模型，就建立好知识库了。在使用的时候，选择这个知识库即可。
