@@ -523,3 +523,17 @@ ul.thinking span {
     /* 超小屏幕每行1张 */
   }
 }
+
+/* 新增：只展示一张图片的样式 */
+.single-image {
+  display: flex;
+  justify-content: center;
+  /* 居中 */
+  align-items: center;
+}
+
+.single-image .single-image-item {
+  width: 100%;
+  max-width: 400px;
+  /* 限制图片最大宽度 */
+}
