@@ -78,6 +78,12 @@ tag: [内蒙古]
 
 ![炭烤牛排](https://blogcdn.qihope.com/github-life/2025-05-17-hulunbeier/2025-05-17-hulunbeier-016.png?x-oss-process=image/quality,q_30)
 
+```
+餐厅名字：阿爸餐厅·蒙汉融合菜
+地址：车站路3-37号
+当餐价格：63元
+```
+
 ## 伊敏河
 
 在伊敏河旁散步，很惬意。人很少，气候也很好。
