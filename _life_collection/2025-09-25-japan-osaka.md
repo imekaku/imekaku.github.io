@@ -176,6 +176,303 @@ tag: [日本]
 当餐价格：1600日元
 ```
 
-# 大阪 Day3 - 在虚构的故事当中寻求真实感的人脑袋一定有问题
+# 大阪 Day3 - 巡礼《凉宫春日的忧郁》
 
-巡礼《凉宫春日的忧郁》
+在虚构的故事当中寻求真实感的人脑袋一定有问题
+
+## 巡礼
+
+### 集合、咖啡店
+
+凉宫春日的故事发生在大阪市旁边的西宫市，主要在这个区域。巡礼路线大概如图。
+
+![西宫市](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-117.png?x-oss-process=image/quality,q_30)
+
+从大阪到了`西宫北口`地铁站后，其实这里就是第一个巡礼点，团长和大家集合的地方。好像阿虚和其他集合也在这里，漫无止境的八月，过了15532次的两个星期。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-034.JPG?x-oss-process=image/quality,q_30)
+
+随后我沿着路走，走到了阿虚请客的地方。（不知道是不是动漫中的那家，不过巡礼的地图上是这么标注的，大家似乎也普遍这么认为。）
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-033.png?x-oss-process=image/quality,q_30)
+
+街边上还遇到了凉宫相关的绘画工具小店？以及咖啡店门口的学姐。
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-035.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-036.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-037.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+</div>
+
+咖啡店不算大，相比动画中的肯定要小不少。很安静，来的客人应该都是周围的居民。我去的时候，有两个服务端小哥。很热情。
+
+我买了一份团长的小卡片，以及一杯冰淇凌。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-038.JPG?x-oss-process=image/quality,q_30)
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-039.JPG?x-oss-process=image/quality,q_30)
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-040.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-041.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-042.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+</div>
+
+卡片中的内容似乎只是动画中的随机截图，感觉有一点敷衍。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-110.png?x-oss-process=image/quality,q_30)
+
+```
+餐厅名字：Café Dream 珈琲屋ドリーム
+地址：日本〒662-0832 Hyogo, Nishinomiya, Kofuen, 1 Chome−12−12 武田ビル
+经纬度：34.748629754922845, 135.3564806935466
+地址链接：https://maps.app.goo.gl/DdsXCbedQDphKuEP9
+当餐价格：800日元冰淇凌+480日元团长卡片
+```
+
+### 西宫市的街道
+
+我还挺喜欢走日本这种街道中散步的，人不多，很安静，街道也很干净。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-044.JPG?x-oss-process=image/quality,q_30)
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-043.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-045.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-046.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+</div>
+
+### 廣田神社
+
+另一个巡礼点。从咖啡馆走直线大约1.4公里，加上弯弯绕绕的话，估计2、3公里吧。（我对日本的神社文化不太了解）
+
+凉宫春日的场景时隔多年还是没有怎么变化呢。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-047.JPG?x-oss-process=image/quality,q_30)
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-048.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-049.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-050.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+</div>
+
+### 未来人
+
+来到学姐坦白自己是未来人的公园。公园很简单，沿着道路两旁修建，其中有一些简单的游玩设备。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-051.png?x-oss-process=image/quality,q_30)
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-052.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-053.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-054.JPG?x-oss-process=image/quality,q_30" alt="凉宫春日"></div>
+</div>
+
+### 西宮市立大社中学校
+
+初中的春日翻墙进学校，然后遇见了John·Smith。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-055.png?x-oss-process=image/quality,q_30)
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-056.png?x-oss-process=image/quality,q_30)
+
+### 甲陽園、阿虚的上学路
+
+剧中，阿虚似乎是从`甲陽園地铁站`出发，然后走到北高(西宮苦楽園高等学校)的。
+
+这一段路去往`甲陽園地铁站`的。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-057.png?x-oss-process=image/quality,q_30)
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-058.png?x-oss-process=image/quality,q_30)
+
+甲陽園地铁站。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-062.png?x-oss-process=image/quality,q_30)
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-060.JPG?x-oss-process=image/quality,q_30)
+
+甲陽園地铁站旁的台阶。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-064.png?x-oss-process=image/quality,q_30)
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-061.JPG?x-oss-process=image/quality,q_30)
+
+沿台阶上去，去往北高。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-065.png?x-oss-process=image/quality,q_30)
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-066.png?x-oss-process=image/quality,q_30)
+
+### "北高" 西宮苦楽園高等学校
+
+剧中的北高，西宮苦楽園高等学校。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-069.png?x-oss-process=image/quality,q_30)
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-071.JPG?x-oss-process=image/quality,q_30)
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-068.png?x-oss-process=image/quality,q_30)
+
+我正好赶上周五学生放学，一路上都能看见不少学生。算是凉宫春日的另一种氛围吧，哈哈哈哈。本身作品也是讲述校园生活。虽然天已经暗下来了，但是还是能听见学校还有不少学生，好像在打篮球还是什么。
+
+另外走到学校真的好累呀。学校完全就是在山上，一直在上坡。特别是最后一段，完全就是很陡很陡的斜坡。
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-072.png?x-oss-process=image/quality,q_30)
+
+## 巡礼结束，夜景、美食
+
+得益于学校在山上，往回走的时候，能够看到城市的夜景。沿街的路上没什么人，有一些是放学的学生。很安静，路上的灯很亮，但是还是有一种山中的静谧。
+
+![夜景](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-073.JPG?x-oss-process=image/quality,q_30)
+
+![夜景](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-074.JPG?x-oss-process=image/quality,q_30)
+
+我走到一个公交车站时，实在走不动了。正想问旁边也在等车的学生路线的时候，有一辆出租车来了，就打了出租车去了相隔`西宫北口`一个车站的`門戸厄神`站。大概四公里多吧，花了2600日元，日本打出租车真的很贵呀。
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-075.png?x-oss-process=image/quality,q_30" alt="出租车"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-076.png?x-oss-process=image/quality,q_30" alt="出租车"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-077.png?x-oss-process=image/quality,q_30" alt="出租车"></div>
+</div>
+
+之前有找西宫市的美食，找到了这一家。在地铁旁，交通很方便。
+
+店面不是很大，但是快坐满了，味道很不错。一般情况下，日本的味增汤好像只有一小碗，这里是一大碗。但是感觉味增汤有点淡。
+
+![鱼生](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-078.png?x-oss-process=image/quality,q_30)
+
+![鱼生](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-079.png?x-oss-process=image/quality,q_30)
+
+```
+餐厅名字：魚幸処 にしかわ
+地址：15-3 Mondoso, Nishinomiya, Hyogo 662-0825日本
+经纬度：34.75772695952583, 135.35786101174884
+地址链接：https://maps.app.goo.gl/qbMzVaRGZDCBPGxz9
+当餐价格：3400日元
+```
+
+## 搭乘电车回到大阪，心斋桥、道顿堀
+
+回到大阪时间还早，我就在街上溜达溜达。然后就遛弯到心斋桥附近。
+
+这里应该就是市中心了吧？步行街中有很多卖药妆的，扭蛋的，还有一些小礼品的。人来人往，好不热闹。外国人很多。一直到晚上快12点的时候，人潮还是很多，就像八九点的样子似的。
+
+![心斋桥](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-080.JPG?x-oss-process=image/quality,q_30)
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-081.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-082.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-083.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-084.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-085.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-086.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+</div>
+
+## 夜宵、超市
+
+已经快到凌晨了，我其实没有很饿，但是在地图上搜到一家麻婆豆腐面，感觉很好奇，就去尝了尝。
+
+我点的是他们家次辣的，也就是不是最辣的那款麻婆豆腐面，然后外加一笼小笼包。怎么说呢，日本的麻婆豆腐真的没有get到麻婆豆腐的精髓。麻婆豆腐的要旨不是辣，是香。是那种麻辣加上肉糜和豆腐的香。这里的麻婆豆腐感觉是很纯粹的辣味。然后就会导致整个菜没什么味道（除了辣味之外），感觉就是没入味。豆腐很嫩，但是没有结合香味。面条是那种比较粗的面条，我还是更喜欢日式拉面那种细度。
+
+![麻婆豆腐面](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-087.png?x-oss-process=image/quality,q_30)
+
+![小笼包](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-088.png?x-oss-process=image/quality,q_30)
+
+```
+餐厅名字：麻婆麺専門店 麻仁 心斎橋店
+地址：日本〒542-0083 Osaka, Chuo Ward, 
+Higashishinsaibashi, 1 Chome−6−10 Ripplu, 1A ビル
+经纬度：34.67228584697948, 135.5058357742871
+地址链接：https://maps.app.goo.gl/KNuEyk8nWZWwDFxG8
+当餐价格：1750日元
+```
+
+吃完之后，在回酒店的路上路过一家超市，因为需要买水，就正好去里面逛了逛，看了看一些物价啥的。
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-089.png?x-oss-process=image/quality,q_30" alt="超市"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-090.png?x-oss-process=image/quality,q_30" alt="超市"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-091.png?x-oss-process=image/quality,q_30" alt="超市"></div>
+</div>
+
+# 大阪 Day4 - 大阪城
+
+我是预定的Day4晚上8点左右起飞回国的飞机，所以白天空余出来，正好逛逛大阪市区。
+
+到达大阪城之后，我没有立即进去，在外面人少的地方吹了吹风。真的很惬意呀。顿时感觉，这才是度假，在阳光明媚的一天，气候也不冷不热，在长椅上坐着休息休息，看看漂亮的景色。
+
+![大阪城](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-092.JPG?x-oss-process=image/quality,q_30)
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-093.JPG?x-oss-process=image/quality,q_30" alt="大阪城"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-094.JPG?x-oss-process=image/quality,q_30" alt="大阪城"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-095.JPG?x-oss-process=image/quality,q_30" alt="大阪城"></div>
+</div>
+
+进入大阪城公园里面之后，就会看到很高的大阪城。周围都是使用大石头垒起来的，还挺漂亮的。我想这里游客很多的还有一个原因是，“服部平次”在这里做了自我介绍吧，哈哈哈哈。在公园中还有中国大使馆赠送的一对石狮子。
+
+![大阪城](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-096.JPG?x-oss-process=image/quality,q_30)
+
+![服部平次](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-109.jpg?x-oss-process=image/quality,q_30)
+
+<div class="image-grid">
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-097.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-098.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-099.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-100.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-101.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-102.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-103.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-104.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-105.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-106.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-107.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+    <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-108.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
+</div>
+
+逛完大阪城之后，我就找了一家餐厅吃饭。距离大阪城不算近，需要走路，然后乘坐电车。
+
+我点的是一份“亲子饭”，还挺有名的日式饭的。鸡肉+鸡蛋+米饭，就是亲自饭，有一点地狱笑话。不过我觉得这是我这次来日本吃过非常满意的一顿饭了。餐厅位置感觉有点偏，中午的时候人也不是很多。我去的时候，遇到了一桌中国人，有个老爷爷问我是不是一个人来玩，是第几次来玩，以及帮我向和老板翻译等等。很友善的老爷爷，看起来似乎在日本待了很长时间了。似乎有点台湾口音。
+
+餐品的鸡肉很嫩，再加上一些蛋液就显得更嫩了，也很有味道。搭配的清汤也很好喝，并非完全的清汤，像是少一些调料的味增汤。
+
+![亲子饭](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-111.png?x-oss-process=image/quality,q_30)
+
+```
+餐厅名字：Hatagohan はたごはん
+地址：日本〒530-0047 Osaka, Kita Ward, Nishitenma, 1 Chome−7−12 トミイビル 1F
+经纬度：34.694471143366734, 135.50839480312953
+地址链接：https://maps.app.goo.gl/dbnEoXcyZZqK1ykr8
+当餐价格：1050日元
+```
+
+吃完饭后，我就在大阪街上遛弯，到处逛逛。然后走累了在一家咖啡店刷了刷手机。咖啡店很宽敞，意外的宽敞。我印象中的日本的店铺都是很小的，这家咖啡店估计能坐下20、30人。我点了一杯冰淇凌，随后又加了一杯橙汁。
+
+![咖啡店](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-112.png?x-oss-process=image/quality,q_30)
+
+![咖啡吗](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-113.png?x-oss-process=image/quality,q_30)
+
+```
+餐厅名字：Nakaoka coffee Nakanoshima なかおか珈琲 中之島店
+地址：日本〒530-0047 Osaka, Kita Ward, Nishitenma, 2 Chome−5−3 堂島深川ビル １階
+经纬度：34.69551197654081, 135.5027825835924
+地址链接：https://maps.app.goo.gl/yZJy8YnX1JiAjejR7
+当餐价格：炭火咖啡650日元+橙汁500日元
+```
+
+# 回家
+
+逛的差不多了，我就回酒店取了行李，去往机场。
+
+![机场](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-114.png?x-oss-process=image/quality,q_30)
+
+搭乘的吉祥航空，飞机餐只是面包，有点失望，没有弄一点热食吗。
+
+![飞机餐](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-115.png?x-oss-process=image/quality,q_30)
+
+到了大兴机场，搭乘夜间巴士回去。发现从大兴机场到达三元桥的路线没有了，到朝阳这边的，最远到`农业展览馆`。大巴车上前排的乘客似乎是一家人来旅游的，有说有笑的，很开心。
+
+![大兴机场线](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-116.png?x-oss-process=image/quality,q_30)
+
+这一趟大阪之旅总的还是很不错的，虽然很考验体力。我是得好好加强下体力了。
