@@ -190,6 +190,10 @@ tag: [日本]
 
 从大阪到了`西宫北口`地铁站后，其实这里就是第一个巡礼点，团长和大家集合的地方。好像阿虚和其他集合也在这里，漫无止境的八月，过了15532次的两个星期。
 
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-032.png?x-oss-process=image/quality,q_30)
+
+![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-118.JPG?x-oss-process=image/quality,q_30)
+
 ![凉宫春日](https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-034.JPG?x-oss-process=image/quality,q_30)
 
 随后我沿着路走，走到了阿虚请客的地方。（不知道是不是动漫中的那家，不过巡礼的地图上是这么标注的，大家似乎也普遍这么认为。）
@@ -398,6 +402,8 @@ Higashishinsaibashi, 1 Chome−6−10 Ripplu, 1A ビル
 
 # 大阪 Day4 - 大阪城
 
+## 大阪城
+
 我是预定的Day4晚上8点左右起飞回国的飞机，所以白天空余出来，正好逛逛大阪市区。
 
 到达大阪城之后，我没有立即进去，在外面人少的地方吹了吹风。真的很惬意呀。顿时感觉，这才是度假，在阳光明媚的一天，气候也不冷不热，在长椅上坐着休息休息，看看漂亮的景色。
@@ -431,6 +437,8 @@ Higashishinsaibashi, 1 Chome−6−10 Ripplu, 1A ビル
     <div class="image-item"><img src="https://blogcdn.qihope.com/github-life/2025-09-25-japan-osaka/2025-09-25-japan-osaka-108.JPG?x-oss-process=image/quality,q_30" alt="大阪"></div>
 </div>
 
+## 午餐
+
 逛完大阪城之后，我就找了一家餐厅吃饭。距离大阪城不算近，需要走路，然后乘坐电车。
 
 我点的是一份“亲子饭”，还挺有名的日式饭的。鸡肉+鸡蛋+米饭，就是亲自饭，有一点地狱笑话。不过我觉得这是我这次来日本吃过非常满意的一顿饭了。餐厅位置感觉有点偏，中午的时候人也不是很多。我去的时候，遇到了一桌中国人，有个老爷爷问我是不是一个人来玩，是第几次来玩，以及帮我向和老板翻译等等。很友善的老爷爷，看起来似乎在日本待了很长时间了。似乎有点台湾口音。
@@ -446,6 +454,8 @@ Higashishinsaibashi, 1 Chome−6−10 Ripplu, 1A ビル
 地址链接：https://maps.app.goo.gl/dbnEoXcyZZqK1ykr8
 当餐价格：1050日元
 ```
+
+## 下午茶
 
 吃完饭后，我就在大阪街上遛弯，到处逛逛。然后走累了在一家咖啡店刷了刷手机。咖啡店很宽敞，意外的宽敞。我印象中的日本的店铺都是很小的，这家咖啡店估计能坐下20、30人。我点了一杯冰淇凌，随后又加了一杯橙汁。
 
