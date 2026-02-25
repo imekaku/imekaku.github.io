@@ -312,9 +312,17 @@ ul.thinking span {
   margin: 0 0.1em 0 0;
 }
 
-#post h2, #post h3, #post h4, #post h5, #post h6 {
-  border-bottom: 1px solid #ddd;
+#post h2 {
+  border-bottom: 1.5px solid #ddd;
   padding-bottom: 0.3em;
+}
+
+#post h3, #post h4, #post h5, #post h6 {
+  border-bottom: 1.5px dotted #bbb;
+  padding-bottom: 0.2em;
+  font-size: 1em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
 }
 
 /*****************************************************************************/
