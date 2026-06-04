@@ -37,7 +37,12 @@ h3 {
   font-size: 110%;
 }
 
-h4, h5, h6 {
+h4 {
+  margin: 1em 0;
+  font-size: 100%;
+}
+
+h5, h6 {
   margin: 1em 0;
   font-size: 100%;
 }
@@ -71,6 +76,24 @@ a:hover {
 table {
   font-size: inherit;
   font: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.5em 0.75em;
+  text-align: left;
+}
+
+th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #fafafa;
 }
 
 .highlight {
@@ -306,6 +329,15 @@ ul.thinking span {
 #post h3:before {
   content: "##";
   font-size: 100%;
+  color: #999;
+  line-height: 0;
+  display: inline-block;
+  margin: 0 0.1em 0 0;
+}
+
+#post h4:before {
+  content: "###";
+  font-size: 80%;
   color: #999;
   line-height: 0;
   display: inline-block;

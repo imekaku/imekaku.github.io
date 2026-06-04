@@ -11,7 +11,7 @@ layout: default
   {{ page.date | date_to_string }} - <a href="/category/{{ page.category }}.html">{{ page.category }}</a>
 </p>
 
-<div id="diy_right_menu">{% include toc.html html=content %}</div>
+<div id="diy_right_menu">{% include toc.html html=content h_max=4 %}</div>
 
 {{ content }}
 
