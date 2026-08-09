@@ -56,6 +56,57 @@ window.onload = function() {
 </script>
 {% endif %}
 
+<script>
+(function () {
+  var CONTAINER_SELECTOR = '#post';
+  var EXCLUDE_SELECTOR = '#post > h1:first-of-type';
+
+  var container = document.querySelector(CONTAINER_SELECTOR);
+  if (!container) return;
+
+  var all = container.querySelectorAll('h1, h2, h3, h4, h5, h6');
+  if (!all.length) return;
+
+  var excluded = EXCLUDE_SELECTOR
+    ? new Set(container.querySelectorAll(EXCLUDE_SELECTOR))
+    : new Set();
+
+  var headings = [];
+  for (var i = 0; i < all.length; i++) {
+    if (!excluded.has(all[i])) headings.push(all[i]);
+  }
+  if (!headings.length) return;
+
+  var startLevel = parseInt(headings[0].tagName.charAt(1), 10);
+  var counters = {};
+  for (var lv = startLevel; lv <= 6; lv++) counters[lv] = 0;
+
+  headings.forEach(function (h) {
+    var level = parseInt(h.tagName.charAt(1), 10);
+    if (level < startLevel) return;
+
+    counters[level]++;
+    for (var d = level + 1; d <= 6; d++) counters[d] = 0;
+
+    var parts = [];
+    for (var lv2 = startLevel; lv2 <= level; lv2++) parts.push(counters[lv2]);
+    var number = parts.join('.') + '.';
+
+    var span = document.createElement('span');
+    span.className = 'heading-number';
+    span.textContent = number + ' ';
+    h.insertBefore(span, h.firstChild);
+  });
+})();
+</script>
+<style>
+.heading-number {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+</style>
+
 </body>
 </html>
 
