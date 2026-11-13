@@ -1,5 +1,5 @@
 #!/bin/sh
-# Generate an English commit message from staged changes using DeepSeek.
+# Generate an English commit message from staged changes using an OpenAI-compatible API.
 # Run from the target repository: sh /path/to/ai-commit.sh [--dry-run]
 # Requires git, python3, and an exported AI_COMMIT_API_KEY.
 # Optional environment (defaults in parentheses):
@@ -11,6 +11,8 @@
 #   AI_COMMIT_CONFIGURATION_THINKING (disabled)
 #   AI_COMMIT_CONFIGURATION_STREAM (false; true is not supported)
 #   AI_COMMIT_CONFIGURATION_TIMEOUT (90 seconds)
+# Kimi K3 models always think: the script omits "thinking" and uses
+# reasoning_effort=low for them. Set AI_COMMIT_MAX_TOKEN to at least 8192.
 # The staged diff is sent to AI_COMMIT_API_URL.
 # No git add, push, amend, or hook bypass is performed.
 
@@ -74,8 +76,8 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
 def main():
     parser = argparse.ArgumentParser(
         prog="ai-commit.sh",
-        description="Send only staged changes to DeepSeek, generate an English message, "
-        "and commit them in the current repository. Requires git and python3.",
+        description="Send only staged changes to the configured chat API, generate an English "
+        "message, and commit them in the current repository. Requires git and python3.",
         epilog="Environment: AI_COMMIT_API_KEY (required), AI_COMMIT_MODEL, "
         "AI_COMMIT_API_URL, AI_COMMIT_MAX_DIFF_BYTES, AI_COMMIT_MAX_TOKEN, "
         "AI_COMMIT_MAX_LENGTH, AI_COMMIT_CONFIGURATION_THINKING, "
@@ -161,16 +163,23 @@ Use an optional short scope only when useful. Use an imperative English descript
 Keep the subject at most 72 characters. A short English body after a blank line is
 allowed if needed to cover the changes accurately. Describe binary file changes
 only as far as the diff supports. Do not output shell commands."""
-    payload = json.dumps({
+    payload_data = {
         "model": model,
         "messages": [
             {"role": "system", "content": prompt},
             {"role": "user", "content": "Staged diff:\n" + diff.decode("utf-8", errors="replace")},
         ],
-        "thinking": {"type": thinking},
         "max_tokens": max_tokens,
         "stream": False,
-    }).encode("utf-8")
+    }
+    if model.startswith("kimi-k3"):
+        # Kimi K3 models always think and reject the "thinking" field. Low
+        # reasoning effort is enough for commit messages and leaves more of
+        # max_tokens available for the final response.
+        payload_data["reasoning_effort"] = "low"
+    else:
+        payload_data["thinking"] = {"type": thinking}
+    payload = json.dumps(payload_data).encode("utf-8")
     request = urllib.request.Request(
         api_url, data=payload,
         headers={"Authorization": "Bearer " + api_key, "Content-Type": "application/json"},
@@ -182,19 +191,19 @@ only as far as the diff supports. Do not output shell commands."""
             result = json.load(response)
     except urllib.error.HTTPError as error:
         # Do not echo response bodies, which might contain request data.
-        fail("DeepSeek API returned HTTP {}. No commit was created.".format(error.code))
+        fail("API returned HTTP {}. No commit was created.".format(error.code))
     except (urllib.error.URLError, TimeoutError, OSError):
-        fail("DeepSeek request failed or timed out. No commit was created.")
+        fail("API request failed or timed out. No commit was created.")
     except (ValueError, UnicodeError):
-        fail("DeepSeek returned invalid JSON. No commit was created.")
+        fail("API returned invalid JSON. No commit was created.")
 
     try:
         choice = result["choices"][0]
         message = choice["message"]["content"]
         if choice.get("finish_reason") != "stop" or not isinstance(message, str):
-            fail("DeepSeek did not return a complete message. No commit was created.")
+            fail("API did not return a complete message. No commit was created.")
     except (KeyError, IndexError, TypeError):
-        fail("Unexpected DeepSeek response. No commit was created.")
+        fail("Unexpected API response. No commit was created.")
     message = message.strip()
     if not message or len(message) > max_length or any(
         ord(character) < 32 and character != "\n" or ord(character) == 127
