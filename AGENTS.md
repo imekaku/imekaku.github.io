@@ -33,9 +33,11 @@ The index pages (`category/index.html`, `life/index.html`) auto-list posts; the 
 
 Conditional per page: `_layouts/default.html` loads MathJax from a CDN only when `formula` is in the page's `tags`. Add `tags: [formula]` (or `tag: [formula]`) to frontmatter to enable math rendering. Jekyll normalizes `tag`/`tags` to the same array.
 
-## TOC
+## TOC & heading numbers
 
 Post layouts include `{% include toc.html html=content h_max=4 %}`. `_includes/toc.html` is a vendored copy of allejo/jekyll-toc v1.2.0 — not a plugin. Do not expect a gem.
+
+`_layouts/default.html` also numbers headings client-side inside `#post` (excluding the title `<h1>`). Do not add manual section numbers to new post/life headings.
 
 ## Drafts (`.hide`)
 
@@ -44,8 +46,11 @@ Post layouts include `{% include toc.html html=content h_max=4 %}`. `_includes/t
 ## Assets & build artifacts
 
 - Images are hosted externally on `blogcdn.qihope.com`, not in this repo.
-- Stylesheets: `css/screen.css`, `css/syntax.css`.
 - `_site/` and `.jekyll-cache/` are build artifacts (gitignored) — never edit by hand.
+
+## Commit helper
+
+`sh ai-commit.sh --dry-run` generates an English Conventional Commit message from the staged diff without committing; omit `--dry-run` to commit. It requires `AI_COMMIT_API_KEY` and sends the staged diff to the configured API (DeepSeek by default).
 
 ## Deploy
 
