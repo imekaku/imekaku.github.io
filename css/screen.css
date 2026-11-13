@@ -281,6 +281,8 @@ ul.thinking span {
   background-color: #FFFFFF;
   padding: 0.4em;
   overflow-x: auto;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
   /* 去除滑轨 */
 }
 
